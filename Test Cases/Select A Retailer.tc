@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select A Retailer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8f84baa-0e39-4042-a97c-12ec8a11c955</testCaseGuid>
+   <variable>
+      <defaultValue>'https://osba-admin-uat-mb.rapp-customers.co.uk/Account/TestLogin'</defaultValue>
+      <description></description>
+      <id>d3e437d0-b30c-40b5-8786-96f6649d4b0c</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+   <variable>
+      <defaultValue>'osbpc_MA27'</defaultValue>
+      <description></description>
+      <id>fca6e3a0-5f6d-4deb-b615-9b2929b1d11e</id>
+      <masked>false</masked>
+      <name>UsernameMA</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pa$$word1234567893'</defaultValue>
+      <description></description>
+      <id>48d3e55e-5ba3-4b20-ba45-6e5158dcc343</id>
+      <masked>false</masked>
+      <name>PasswordMA</name>
+   </variable>
+</TestCaseEntity>

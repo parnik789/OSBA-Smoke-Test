@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Segment 4 (10 Years)_glyphicon glyphic_3a316c</name>
+   <tag></tag>
+   <elementGuidId>259b25c6-ae20-4ff3-a2e6-26cf2ef4f6fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='marketArea']/div/div[2]/div/div[2]/div/table/tbody/tr[5]/td[2]/div/span/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-minus</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;marketArea&quot;)/div[@class=&quot;row white-bg padding-30-15 no-margin-lr&quot;]/div[@class=&quot;row white-bg no-margin-lr&quot;]/div[@class=&quot;row no-margin-lr&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;open-hours-holder&quot;]/table[@class=&quot;table-opening&quot;]/tbody[1]/tr[5]/td[2]/div[@class=&quot;input-group&quot;]/span[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn btn-default btn-number btn-plus-minus&quot;]/span[@class=&quot;glyphicon glyphicon-minus&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='marketArea']/div/div[2]/div/div[2]/div/table/tbody/tr[5]/td[2]/div/span/button/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/table/tbody/tr[5]/td[2]/div/span/button/span</value>
+   </webElementXpaths>
+</WebElementEntity>
